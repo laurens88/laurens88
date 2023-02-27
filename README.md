@@ -1,6 +1,6 @@
 Laurens de Bruin
 
-BsC Artificial Intelligence at Radboud University Nijmegen
+MsC Artificial Intelligence at Radboud University Nijmegen
 
 laurens.debruin@ru.nl
 
