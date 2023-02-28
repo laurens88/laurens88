@@ -1,8 +1,10 @@
-Laurens de Bruin
+**Laurens de Bruin**
 
 MsC Artificial Intelligence student at Radboud University Nijmegen\
-Currently contributing to the ASReview project
+Currently contributing to the [ASReview project](https://github.com/asreview)
 
+
+Contact me at:\
 laurens.debruin@ru.nl\
 https://www.linkedin.com/in/laurens-debruin/
 
