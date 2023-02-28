@@ -1,8 +1,9 @@
 Laurens de Bruin
 
-MsC Artificial Intelligence at Radboud University Nijmegen
+MsC Artificial Intelligence student at Radboud University Nijmegen\
+Currently contributing to the ASReview project
 
-laurens.debruin@ru.nl
+laurens.debruin@ru.nl\
 https://www.linkedin.com/in/laurens-debruin/
 
 <!---
