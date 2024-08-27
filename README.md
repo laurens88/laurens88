@@ -1,5 +1,7 @@
 **Laurens de Bruin**
 
+https://laurensdebruin.me/
+
 MSc Artificial Intelligence student at Radboud University Nijmegen\
 Software developer at [ASReview project](https://github.com/asreview)
 
