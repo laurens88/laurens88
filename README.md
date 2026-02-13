@@ -7,7 +7,7 @@ Software developer at [ASReview project](https://github.com/asreview)
 
 
 Contact me at:\
-laurens.debruin@ru.nl\
+laurens.debruin@engie.com\
 https://www.linkedin.com/in/laurens-debruin/
 
 <!---
